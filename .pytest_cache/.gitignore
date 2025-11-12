@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# Data / Models
+data/
+reports/
+models/
+*.pkl
+*.csv
+*.json
+
+# Power BI
+*.pbix
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+

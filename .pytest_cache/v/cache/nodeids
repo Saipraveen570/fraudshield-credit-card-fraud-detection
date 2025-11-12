@@ -1,0 +1,4 @@
+[
+  "tests/test_api_payload.py::test_schema_fields",
+  "tests/test_features.py::test_feature_build_minimal"
+]

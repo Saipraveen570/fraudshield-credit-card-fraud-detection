@@ -1,0 +1,20 @@
+{
+  "categorical": [
+    "country",
+    "mcc",
+    "channel",
+    "device_id"
+  ],
+  "numeric": [
+    "amount",
+    "hour",
+    "dayofweek",
+    "tx_count_1h",
+    "tx_count_24h",
+    "avg_amount_7d",
+    "std_amount_7d",
+    "device_new",
+    "is_cross_border",
+    "merchant_risk"
+  ]
+}

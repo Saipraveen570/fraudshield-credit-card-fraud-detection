@@ -1,0 +1,19 @@
+# Core
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+lightgbm==4.5.0
+joblib==1.4.2
+pyyaml==6.0.2
+
+# Explainability
+shap==0.46.0
+
+# API
+fastapi==0.115.4
+uvicorn==0.32.0
+
+# Quality
+pytest==8.3.3
+black==24.10.0
+ruff==0.6.9

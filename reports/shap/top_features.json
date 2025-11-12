@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "channel_ECOM",
+    "mean_abs_shap": 1.4686681753837523
+  },
+  {
+    "feature": "amount",
+    "mean_abs_shap": 0.5230731974487224
+  },
+  {
+    "feature": "std_amount_7d",
+    "mean_abs_shap": 0.4810109636717979
+  },
+  {
+    "feature": "avg_amount_7d",
+    "mean_abs_shap": 0.4682560368530086
+  },
+  {
+    "feature": "hour",
+    "mean_abs_shap": 0.3846481041855212
+  },
+  {
+    "feature": "mcc_5411",
+    "mean_abs_shap": 0.3309638942964525
+  },
+  {
+    "feature": "country_SG",
+    "mean_abs_shap": 0.28992452383522105
+  },
+  {
+    "feature": "mcc_5732",
+    "mean_abs_shap": 0.25536171477532066
+  },
+  {
+    "feature": "dayofweek",
+    "mean_abs_shap": 0.25391264186308865
+  },
+  {
+    "feature": "country_IN",
+    "mean_abs_shap": 0.22819760872186656
+  },
+  {
+    "feature": "country_DE",
+    "mean_abs_shap": 0.2217222545149041
+  },
+  {
+    "feature": "merchant_risk",
+    "mean_abs_shap": 0.21209079654896526
+  },
+  {
+    "feature": "country_GB",
+    "mean_abs_shap": 0.18757124509207382
+  },
+  {
+    "feature": "country_AE",
+    "mean_abs_shap": 0.14426696617227688
+  },
+  {
+    "feature": "channel_ATM",
+    "mean_abs_shap": 0.14416619808104536
+  },
+  {
+    "feature": "mcc_5814",
+    "mean_abs_shap": 0.14273099678605738
+  },
+  {
+    "feature": "mcc_5999",
+    "mean_abs_shap": 0.11648267444209572
+  },
+  {
+    "feature": "mcc_4789",
+    "mean_abs_shap": 0.10345461671964312
+  },
+  {
+    "feature": "is_cross_border",
+    "mean_abs_shap": 0.10256073299091434
+  },
+  {
+    "feature": "country_US",
+    "mean_abs_shap": 0.08582785778508469
+  }
+]
